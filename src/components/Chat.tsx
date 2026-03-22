@@ -85,7 +85,7 @@ export default function Chat() {
               <ShieldAlert className="w-5 h-5 text-black" />
             </div>
             <div>
-              <h1 className="font-bold text-xl tracking-widest lowercase">valorant coach <span className="text-black">🎯</span></h1>
+              <h1 className="font-bold text-xl tracking-widest lowercase">valorant coach <span className="text-black"></span></h1>
               <p className="text-xs text-minuit-grey font-bold tracking-widest lowercase">tactical ai assistant</p>
             </div>
           </button>
